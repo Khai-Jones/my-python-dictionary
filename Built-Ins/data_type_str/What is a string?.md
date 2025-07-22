@@ -15,7 +15,7 @@ A string has 48 utility methods, which are used to manipulate or inspect strings
 
 ### Case & Format manipulation
 
-- `upper()`, `lower()`, `capitalize`, `title`, `swapcase`, `casefold
+- `upper()`, `lower()`, `capitalize`, `title`, `swapcase`, `casefold`
 - `center`, `ljust`, `rjust`, `zfill`, `format`, `format_map`
 ### Search and Find
 - `find`, `rfind`, `index`, `rindex`, `startswith`, `endswith`
