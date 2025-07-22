@@ -38,7 +38,7 @@ If you use **Obsidian**:
 
 1. **Clone this repository** to your local machine:
 ``` bash
-git clone https://github.com/YourGitHubUsername/my-python-notes.git # You might rename your local folder to 'my-python-notes' for clarity
+git clone https://github.com/Khai-Jones/my-python-notes.git 
 ```
 2. **Open the cloned folder** as a new vault (or add it as a new folder) in Obsidian.
 3. You can then navigate, search, and link between notes seamlessly within Obsidian, leveraging its graph view and internal linking capabilities.
